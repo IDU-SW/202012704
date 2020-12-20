@@ -6,6 +6,8 @@ React를 이용한 간단한 구구단 정답 맞추기 게임입니다.
 
 로컬웹에서 재미있게 구구다늘 즐깁니다.
 
+https://user-images.githubusercontent.com/48529156/102712478-00aa7280-4305-11eb-8312-b4936976bce9.mov
+
 1 * 1의 답을 적고 Insert 버튼을 눌러줍니다.
 
 ![스크린샷 2020-12-20 오후 8 19 31](https://user-images.githubusercontent.com/48529156/102711955-d22a9880-4300-11eb-85df-33283e389115.png)
